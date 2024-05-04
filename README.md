@@ -1,8 +1,11 @@
 LABORATÓRIO DE SISTEMAS OPERACIONAIS - PTHREADS PARTE 2
 
-Lucas Eleutério da Silva - TIA 32240597
+Bruno Roveri - 10401752
 
-Renan Pires de Miranda - TIA 32248253
+Lucas Farias - 10402521
+
+Leonardo Binder - 10402289
+
 
 Execução da instância AWS e instalação do git no terminal:
 ![image](https://github.com/brunoroveri/lab3parte2/assets/142548195/12ca5852-c429-4912-9c0f-5fbdd138716f)
